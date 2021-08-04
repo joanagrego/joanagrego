@@ -1,5 +1,5 @@
 Oi! Sou Joana, @joanagrego, 25 anos, engenheira civil e estudante de T.I.
-Estou estudando Python e Java, sendo assim, muito interessada nessas duas linguagens de programação.
+Me aprofundando Python e Java, sendo assim, muito interessada nessas duas linguagens de programação.
 Para me encontrar, envie um email para joanagregot@hotmail.com .
 
 <!---

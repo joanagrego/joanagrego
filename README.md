@@ -1,6 +1,8 @@
-Oi! Sou Joana, @joanagrego, 25 anos, engenheira civil e estudante de T.I.
-Estou estudando Python e Java, sendo assim, muito interessada nessas duas linguagens de programação.
-Para me encontrar, envie um email para joanagregot@hotmail.com!
+Hello, world! 
+
+Front-end Engineer at Liferay @Liferay.
+
+I'm front-end developer, currently working with Javascript, Typescript and React. 
 
 <div>
   <a href="https://github.com/joanagrego">
